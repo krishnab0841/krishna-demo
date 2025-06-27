@@ -1,4 +1,4 @@
 # krishna-demo
 this is my first Repository.
 <br>
-Auther - Krishna Bulbule 
+Auther - Krishna bulbule
